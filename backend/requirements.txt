@@ -1,0 +1,10 @@
+loguru
+rich
+asyncio
+pytest
+yapf
+pandas
+numpy
+scikit-learn
+transformers
+torch
